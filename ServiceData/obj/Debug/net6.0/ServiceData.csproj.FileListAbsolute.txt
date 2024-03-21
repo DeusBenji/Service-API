@@ -1,0 +1,12 @@
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\bin\Debug\net6.0\ServiceData.deps.json
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\bin\Debug\net6.0\ServiceData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\bin\Debug\net6.0\ServiceData.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.csproj.AssemblyReference.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.AssemblyInfoInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.AssemblyInfo.cs
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.csproj.CoreCompileInputs.cache
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\refint\ServiceData.dll
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ServiceData.pdb
+C:\Users\Benj3\Source\Repos\BenBakRas\Service-Api\ServiceData\obj\Debug\net6.0\ref\ServiceData.dll
